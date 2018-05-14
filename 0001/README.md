@@ -1,48 +1,68 @@
-# Title
-Wakin Next to You
+# Waking Next to You
+---
+###### Intro
+||: [D] | [A] | [G] | [D] :||
 
-## Lyrics
-To travel the world
-seeing its sights.
-Supersonic speeds,
-private jet flights.
-The seventh game of,
-World Series ball.
-The thrill of winning
-a cash windfall.
-And as time rolls, on for us all
-Nothing compares to,
-when I wake next to you.
-When I wake next to you.
+[D] To travel the world,
+[A] seeing its sights.
+[G] Supersonic speeds, and
+[D] private jet flights.
+[D] The seventh game of
+[A] World Series ball.
+[G] The thrill of winning
+[D/A] a cash windfall.
+[Bm] And as time rolls
+[F#m7] on for us all
+[G] Nothing compares to,
+[A] when I wake next to
+[D] you.
 
-The flow of the tides,
-turn of the Earth.
-The crowning of kings,
-a prince's birth.
-The changing of leaves,
-Springtime to Fall.
-All the birds singing,
-a mating call.
-And as time rolls, on for us all
-Nothing compares to,
-when I wake next to you.
-When I wake next to you.
+[D] | [A] | [G] | [D]
 
-The stars came to form,
-planets took shape.
-A fish learned to walk,
-across landscape.
-Meteor showers,
-solar eclipse.
-Some red and blue moons.
-All lead to this.
-Even if time, ceased to exist
-Nothing compares to,
-when I wake next to you.
-When I wake next to you.
+[D] The flow of the tides,
+[A] turn of the Earth.
+[G] The crowning of kings,
+[D] a prince's birth.
+[D] The changing of leaves,
+[A] Springtime to Fall.
+[G] All the birds singing,
+[D/A] a mating call.
+[Bm] And as time rolls
+[F#m7] on for us all
+[G] Nothing compares to,
+[A] when I wake next to
+[D] you.
 
-It's all lead us to this.
-Even if time, ceases to exist
-Nothing compares to,
-waking next to you.
+###### Solo
+[D] | [A] | [G] | [D]
+[D] | [A] | [G] | [D/A]
+[Bm] | [F#m7] | [G] | [D]
+[Bm] | [F#m7] | [G] | [A]
+
+[D] | [D]
+[D] The stars came to form,
+[A] planets took shape.
+[G] A fish learned to walk,
+[D] across landscape.
+[D] Meteor showers,
+[A] solar eclipse.
+[G] Some red and blue moons.
+[D/A] All lead to this.
+[Bm] Even if time
+[F#m7] ceased to exist
+[G] Nothing compares to,
+[A] when I wake next to
+[D] you.
+
+[A] | [G]
+
+[D/A] It's all lead to this.
+[Bm] Even if time
+[F#m7] ceases to exist
+[G] Nothing compares to,
+[A] waking next to
+[D] you.
+---
+## Notes
+Six bars from the end, increase volume and intensity to quickly soften to a sweet wisper for the last two bars.
 
